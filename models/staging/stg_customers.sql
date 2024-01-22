@@ -17,7 +17,8 @@ renamed as (
         1 as one,
         1 as two,
         1 as three,
-        1 as four
+        1 as four,
+        1 as five
 
     from source
 
