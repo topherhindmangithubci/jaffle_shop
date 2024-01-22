@@ -15,7 +15,8 @@ renamed as (
         first_name,
         last_name,
         1 as one,
-        1 as two
+        1 as two,
+        1 as three
 
     from source
 
